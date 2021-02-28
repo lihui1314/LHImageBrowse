@@ -1,22 +1,19 @@
 {
   "name": "LHImageBrowse",
   "version": "0.1.0",
-  "summary": "A short description of LHImageBrowse.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/18221534728@163.com/LHImageBrowse",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "summary": "图片浏览器",
+  "description": "图片浏览器 类似朋友圈",
+  "homepage": "https://github.com/lihui1314/LHImageBrowse.git",
+  "license": "Copyright (c) 2021 lihui1314",
   "authors": {
-    "18221534728@163.com": "15652628678@163.com"
+    "lihui1314": "15652628678@163.com"
   },
   "source": {
-    "git": "https://github.com/18221534728@163.com/LHImageBrowse.git",
+    "git": "https://github.com/lihui1314/LHImageBrowse.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LHImageBrowse/Classes/**/*"
+  "source_files": "LHImageBrowse/LHImageBrowse/Classes/**/*"
 }

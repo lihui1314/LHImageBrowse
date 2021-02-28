@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LHImageBrowse'
-  s.version          = '0.1.0'
+  s.version          = '1.1.0'
   s.summary          = '图片浏览器'
 
 # This description is used to generate tags and improve search results.
@@ -23,10 +23,10 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/lihui1314/LHImageBrowse.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = "MIT"
+  s.license          = "MIT License"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.license          = "Copyright (c) 2021 lihui1314"
-  s.author           = { '李辉' => '15652628678@163.com' }
+  s.author           = { 'lihui1314' => '15652628678@163.com' }
   s.source           = { :git => 'https://github.com/lihui1314/LHImageBrowse.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
