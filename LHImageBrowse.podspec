@@ -23,7 +23,9 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/lihui1314/LHImageBrowse.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.license          = "MIT"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = "Copyright (c) 2021 lihui1314"
   s.author           = { '李辉' => '15652628678@163.com' }
   s.source           = { :git => 'https://github.com/lihui1314/LHImageBrowse.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
