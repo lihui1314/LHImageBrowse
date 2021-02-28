@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'LHImageBrowse/Classes/**/*'
+  s.source_files = 'LHImageBrowse/LHImageBrowse/Classes/**/*'
   
   # s.resource_bundles = {
   #   'LHImageBrowse' => ['LHImageBrowse/Assets/*.png']
