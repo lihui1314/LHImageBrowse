@@ -1,0 +1,6 @@
+framework module Pods_LHImageBrowse_Example {
+  umbrella header "Pods-LHImageBrowse_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

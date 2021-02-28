@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LHImageBrowse_Example' do
+  pod 'LHImageBrowse', :path => '../'
+
+  target 'LHImageBrowse_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
